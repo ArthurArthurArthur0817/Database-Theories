@@ -1,10 +1,11 @@
-# Database-Theories-排球資料庫統計系統
+# Database-Theory-排球資料庫統計系統
 
 本專案以 **MySQL + PHP** 撰寫完成，旨在為需要大量觀看或分析排球比賽的使用者提供一個能即時記錄、儲存與分析數據的統計平台。  
 系統除了能有系統地管理 **球員與教練資料** 外，還能進行數據的 **統計、排序與視覺化**，並支援匯出報表，方便後續分析與應用。
 
 ---
 
+[報告書連結](https://github.com/ArthurArthurArthur0817/Database-Theories/blob/main/final%20report.pdf)
 ## 🎯 功能性需求
 
 ### 前台功能
